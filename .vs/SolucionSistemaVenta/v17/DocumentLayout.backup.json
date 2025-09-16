@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\calixto rodriguez\\desktop\\examen de grado\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\calixto rodriguez\\desktop\\examen de grado\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\calixto rodriguez\\desktop\\examen de grado\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\calixto rodriguez\\desktop\\examen de grado\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22845F43-36F4-4817-B0C5-F5C3CF472897}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:02:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T16:57:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T16:34:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Calixto Rodriguez\\Desktop\\Examen de Grado\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T16:32:21.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
