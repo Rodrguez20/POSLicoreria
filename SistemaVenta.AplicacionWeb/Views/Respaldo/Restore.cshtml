@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Restauración de Base de Datos";
+}
+
+<h2>Restauración de la base de datos</h2>
+
+<div>
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+</div>
+
+<form asp-action="RestorePost" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="backupFile">Selecciona archivo .bak</label>
+        <input type="file" name="backupFile" class="form-control" accept=".bak" required />
+    </div>
+    <button type="submit" class="btn btn-danger" style="margin-top:10px;">
+        Restaurar
+    </button>
+</form>
